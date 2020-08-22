@@ -555,6 +555,15 @@ div.main-menu-active > a::before {
     left: -10px;
     width: calc(100% + 20px);
   }
+
+  .main-menu > div > a {
+    margin: 0 10px;
+  }
+
+  .main-menu > div > a::before {
+    left: -10px;
+    width: calc(100% + 20px);
+  }
 }
 
 /*---------------------------------------------*/
